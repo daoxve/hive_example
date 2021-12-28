@@ -1,8 +1,10 @@
 # Hive Example
 
-A simple app that does CRUD operations with Hive (implemented in the stacked architecture).
+A simple app that does CRUD operations with Hive (implemented in the [stacked architecture](https://pub.dev/packages/stacked)).
 
-## Getting Started
+## Preview
+
+
 
 This project is a starting point for a Flutter application.
 
