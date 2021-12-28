@@ -3,7 +3,7 @@
 A simple app that does CRUD operations with Hive (implemented in the [stacked architecture](https://pub.dev/packages/stacked)).
 
 ## Preview
-
+![example](https://github.com/thecokerdavid/hive_example/blob/master/example.gif)
 
 
 This project is a starting point for a Flutter application.
