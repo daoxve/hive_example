@@ -22,8 +22,8 @@ jobs:
      - name: Get dependencies
        run: flutter pub get
 
-     - name: Run analyzer
-       run: flutter analyze .
+#      - name: Run analyzer
+#        run: flutter analyze .
 
      - name: Build release
        run: flutter build web --release
